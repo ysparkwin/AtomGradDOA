@@ -23,7 +23,7 @@ Version 1.0: (04/11/2025 by Y. Park)
 
 # Contact
 
-[Yongsung Park](https://scholar.google.com/citations?user=kYGe18EAAAAJ&hl=en&oi=ao), & [Peter Gerstoft](https://scholar.google.com/citations?user=oLMfDnYAAAAJ&hl=en), & [Christoph F. Mecklenbräuker](https://scholar.google.com/citations?user=-R0ArqgAAAAJ&hl=en)  
+[Yongsung Park](https://scholar.google.com/citations?hl=en&user=jcMeNjMAAAAJ&view_op=list_works&sortby=pubdate), & [Peter Gerstoft](https://scholar.google.com/citations?user=oLMfDnYAAAAJ&hl=en), & [Christoph F. Mecklenbräuker](https://scholar.google.com/citations?user=-R0ArqgAAAAJ&hl=en)  
 AOPE/WHOI  
 MPL/SIO/UCSD  
 yongsung.park@whoi.edu  
